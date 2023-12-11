@@ -1,0 +1,74 @@
+{
+  "courses": [
+    {
+      "courseId": 1,
+      "title": "Java Programming",
+      "course_discription": "A begineer course to explore Java Programming from scratch.Learn core java concepts like polymorprizm etc",
+      "course_Available": true,
+      "price": 5000
+    },
+    {
+      "courseId": 2,
+      "title": "Javascript Programming",
+      "course_discription": "A begineer course to explore Javascript Programming from scratch.",
+      "course_Available": true,
+      "price": 5500
+    },
+    {
+      "courseId": 3,
+      "title": "python Programming",
+      "course_discription": "A begineer course to explore python Programming from scratch.Learn core python concepts like polymorprizm etc",
+      "course_Available": true,
+      "price": 4500
+    },
+    {
+      "courseId": 4,
+      "title": ".Net Programming",
+      "course_discription": "A begineer course to explore .Net Programming from scratch.Learn core .Net concepts like polymorprizm etc",
+      "course_Available": true,
+      "price": 5000
+    }
+  ],
+  "userDetais": [],
+  "enquires": [
+    {
+      "id": 42624,
+      "query": "my name is tillu",
+      "response": [
+        {
+          "id": 360,
+          "published_date": "2023-12-09T15:11:53.672Z",
+          "response": "res.yes"
+        },
+        {
+          "id": 54,
+          "published_date": "2023-12-09T15:21:38.877Z",
+          "response": "res.hello how are yoy"
+        },
+        {
+          "id": 644,
+          "published_date": "2023-12-09T15:27:03.106Z",
+          "response": "res.h"
+        }
+      ],
+      "published_data": "2023-12-09T10:31:31.328Z"
+    },
+    {
+      "id": 78998,
+      "query": "hello world",
+      "response": [
+        {
+          "id": 564,
+          "published_date": "2023-12-09T15:27:35.123Z",
+          "response": "res.hello"
+        },
+        {
+          "id": 914,
+          "published_date": "2023-12-09T15:27:46.952Z",
+          "response": "res.jj"
+        }
+      ],
+      "published_data": "2023-12-09T15:27:17.244Z"
+    }
+  ]
+}
